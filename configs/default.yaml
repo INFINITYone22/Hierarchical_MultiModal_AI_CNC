@@ -1,0 +1,29 @@
+# Default configuration for Hierarchical Multi-Modal AI CNC System
+
+design:
+  cad_format: STEP
+  feature_extraction: true
+
+planning:
+  toolpath_algorithm: A*
+  optimize: true
+
+vision:
+  camera_type: industrial
+  resolution: 1920x1080
+
+control:
+  controller: RL
+  safety_checks: true
+
+monitoring:
+  anomaly_detection: true
+  log_level: INFO
+
+adaptation:
+  online_learning: true
+  retrain_interval: 1000
+
+interfaces:
+  api_enabled: true
+  dashboard: true 

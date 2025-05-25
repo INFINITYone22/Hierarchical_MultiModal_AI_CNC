@@ -1,0 +1,3 @@
+pytest
+pyyaml
+# Add more dependencies as modules are implemented 
