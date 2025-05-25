@@ -1,7 +1,5 @@
 # Hierarchical Multi-Modal AI CNC System
 
-[![CI](https://github.com/INFINITYone22/Hierarchical_MultiModal_AI_CNC/actions/workflows/ci.yml/badge.svg)](https://github.com/INFINITYone22/Hierarchical_MultiModal_AI_CNC/actions)
-
 ## Vision
 
 **Revolutionize CNC manufacturing by fully automating the design, planning, execution, monitoring, and adaptation processes using advanced AI.**
